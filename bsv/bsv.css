@@ -1,0 +1,7 @@
+.wp-block-button.is-style-upper-case {
+  text-transform: uppercase;
+}
+
+.wp-block-button.is-style-pill .wp-block-button__link {
+  border-radius: 30px !important;
+}
